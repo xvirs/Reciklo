@@ -1,0 +1,21 @@
+CREATE TABLE ProductEntity (
+product TEXT
+);
+
+INSERT INTO ProductEntity(product)
+VALUES
+("coca"),
+("pan"),
+("fiambre"),
+("alta picadita");
+
+getAll:
+SELECT ProductEntity.* FROM ProductEntity;
+
+inserProduct:
+INSERT INTO ProductEntity (product)
+VALUES (?);
+
+deleteAll:
+DELETE FROM ProductEntity;
+

@@ -1,0 +1,15 @@
+CREATE TABLE ListLocalProduct (
+    products TEXT
+);
+
+insert:
+INSERT INTO ListLocalProduct (products) VALUES (?);
+
+getAll:
+SELECT products FROM ListLocalProduct;
+
+delete:
+DELETE FROM ListLocalProduct;
+
+
+

@@ -1,0 +1,12 @@
+CREATE TABLE SessionDB (
+session TEXT
+);
+
+insert:
+INSERT INTO SessionDB (session) VALUES (?);
+
+getAll:
+SELECT session FROM SessionDB;
+
+delete:
+DELETE FROM SessionDB;

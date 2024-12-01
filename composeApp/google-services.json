@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1031591103556",
+    "project_id": "home-insurance-mobile-ts",
+    "storage_bucket": "home-insurance-mobile-ts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031591103556:android:aa5587edc91dd0195a0011",
+        "android_client_info": {
+          "package_name": "com.HomeInsurace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRasxbvYJBuhpB4WfzhoLyATf8jYPhss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031591103556:android:91973dba0fa9bb6b5a0011",
+        "android_client_info": {
+          "package_name": "com.homeinsurance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRasxbvYJBuhpB4WfzhoLyATf8jYPhss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031591103556:android:72e4177e601310e75a0011",
+        "android_client_info": {
+          "package_name": "com.jetbrains.kmpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRasxbvYJBuhpB4WfzhoLyATf8jYPhss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

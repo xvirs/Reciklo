@@ -1,0 +1,12 @@
+CREATE TABLE CategoryProductDB (
+category TEXT
+);
+
+insert:
+INSERT INTO CategoryProductDB (category) VALUES (?);
+
+getAll:
+SELECT category FROM CategoryProductDB;
+
+delete:
+DELETE FROM CategoryProductDB;

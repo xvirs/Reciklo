@@ -1,0 +1,12 @@
+CREATE TABLE TypeProductDB (
+type TEXT
+);
+
+insert:
+INSERT INTO TypeProductDB (type) VALUES (?);
+
+getAll:
+SELECT type FROM TypeProductDB;
+
+delete:
+DELETE FROM TypeProductDB;

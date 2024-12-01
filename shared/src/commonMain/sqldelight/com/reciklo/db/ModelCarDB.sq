@@ -1,0 +1,12 @@
+CREATE TABLE ModelCarDB (
+model TEXT
+);
+
+insert:
+INSERT INTO ModelCarDB (model) VALUES (?);
+
+getAll:
+SELECT model FROM ModelCarDB;
+
+delete:
+DELETE FROM ModelCarDB;
